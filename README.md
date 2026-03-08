@@ -9,7 +9,7 @@ palindrome_number.cpp
 multiplication_table.cpp
 sum_of_n_numbers.cpp
 swap_two_numbers.cpp
-reverse_number.cpp
+reverse_number.cp
 
 array_sum.cpp
 array_max_element.cpp
