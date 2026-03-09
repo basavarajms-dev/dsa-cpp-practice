@@ -1,29 +1,64 @@
-hello_world.cpp
-sum_of_two_numbers.cpp
-even_or_odd.cpp
-largest_of_three_numbers.cpp
-factorial.cpp
-fibonacci_series.cpp
-prime_number.cpp
-palindrome_number.cpp
-multiplication_table.cpp
-sum_of_n_numbers.cpp
-swap_two_numbers.cpp
-reverse_number.cpp
+# C++ Data Structures and Algorithms Practice 🚀
 
-array_sum.cpp
-array_max_element.cpp
-array_min_element.cpp
-array_reverse.cpp
-linear_search.cpp
-binary_search.cpp
+Welcome to my **C++ Data Structures and Algorithms (DSA) Practice Repository**.
 
-string_length.cpp
-string_reverse.cpp
-palindrome_string.cpp
-count_vowels.cpp
+This repository contains solutions to various DSA problems implemented in **C++**.
+The goal of this repository is to improve my **problem-solving skills**, **algorithmic thinking**, and prepare for **technical interviews and placements**.
 
-stack_implementation.cpp
-queue_implementation.cpp
-linked_list_basic.cpp
-pattern_printing.cpp
+---
+
+## 📌 Objectives
+
+* Master **Data Structures and Algorithms**
+* Improve **coding and logical thinking**
+* Practice problems from platforms like **LeetCode, HackerRank, and Codeforces**
+* Maintain **daily coding consistency**
+
+---
+
+## 💻 Language Used
+
+* **C++**
+
+---
+
+## 📂 Topics Covered
+
+* Arrays
+* Strings
+* Recursion
+* Linked List
+* Stack
+* Queue
+* Trees
+* Graphs
+* Sorting Algorithms
+* Searching Algorithms
+* Dynamic Programming
+
+---
+
+## 📅 Practice Strategy
+
+* Solve **1–3 problems daily**
+* Focus on **understanding the logic**
+* Write **clean and optimized C++ code**
+
+---
+
+## 📁 Example File Names
+
+* two_sum.cpp
+* reverse_integer.cpp
+* palindrome_number.cpp
+* binary_search.cpp
+
+---
+
+## 🎯 Goal
+
+To become strong in **Data Structures and Algorithms using C++** and get ready for **software engineering interviews**.
+
+---
+
+⭐ *Consistency is the key to mastering DSA.*
